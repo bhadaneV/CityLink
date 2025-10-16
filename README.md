@@ -150,5 +150,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👩‍💻 Developed By
 
-**Vaishnavi Chaudhari**  
+**Vishal Bhadane**  
 🎓 B.Tech Student | 💡 Developer | 🌐 Passionate about Smart City Innovation
